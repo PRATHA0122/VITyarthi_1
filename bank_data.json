@@ -1,0 +1,24 @@
+{
+    "82193": {
+        "name": "Keshav Maheshwari",
+        "pin": "2360",
+        "bal": 90000.0,
+        "sq": "Birth city?",
+        "sa": "delhi",
+        "history": [
+            "[2025-11-25 02:32] Deposit: +100000.0",
+            "[2025-11-25 02:32] Withdraw: -9500.0",
+            "[2025-11-25 02:33] Transfer to Cenoy Francis Tomy (49540): -500.0"
+        ]
+    },
+    "49540": {
+        "name": "Cenoy Francis Tomy",
+        "pin": "2360",
+        "bal": 500.0,
+        "sq": "Birth city?",
+        "sa": "kerela",
+        "history": [
+            "[2025-11-25 02:33] From Keshav Maheshwari (82193): +500.0"
+        ]
+    }
+}
